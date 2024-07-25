@@ -1,0 +1,41 @@
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.exe.config
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.exe
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.pdb
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.DataAccess.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.Entities.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.DataAccess.pdb
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.Entities.pdb
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Form1.resources
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Properties.Resources.resources
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.csproj.GenerateResource.Cache
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.exe
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.pdb
+C:\Users\LC\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Region.resources
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.exe.config
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.exe
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.csprojResolveAssemblyReference.cache
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Form1.resources
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Properties.Resources.resources
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.csproj.GenerateResource.Cache
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.exe
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.DataAccess.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.Entities.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.DataAccess.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.Entities.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.exe.config
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.exe
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.exe
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.UI.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.DataAccess.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.Entities.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.DataAccess.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\bin\Debug\NORTHWND.Entities.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.csprojResolveAssemblyReference.cache
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Form1.resources
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.Properties.Resources.resources
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.csproj.GenerateResource.Cache
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.UI\obj\Debug\NORTHWND.UI.frmMostrar.resources

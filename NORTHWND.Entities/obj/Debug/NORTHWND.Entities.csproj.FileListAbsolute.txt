@@ -1,0 +1,15 @@
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.Entities\bin\Debug\NORTHWND.Entities.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.Entities\bin\Debug\NORTHWND.Entities.pdb
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.Entities\bin\Debug\NORTHWND.Entities.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.Entities\bin\Debug\NORTHWND.Entities.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.Entities\bin\Debug\NORTHWND.Entities.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.Entities\bin\Debug\NORTHWND.Entities.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.csprojResolveAssemblyReference.cache
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.Entities\obj\Debug\NORTHWND.Entities.pdb

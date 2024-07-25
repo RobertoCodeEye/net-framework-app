@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NORTHWND.UI", "NORTHWND.UI\NORTHWND.UI.csproj", "{FD781610-6456-4EC1-B22F-86C6E5A4CC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NORTHWND.DataAccess", "NORTHWND.DataAccess\NORTHWND.DataAccess.csproj", "{335FAEE1-EBCD-4453-AE08-3A55C462D33B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NORTHWND.Entities", "NORTHWND.Entities\NORTHWND.Entities.csproj", "{5079FA67-EA05-4795-B8AA-ADD25FB16883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD781610-6456-4EC1-B22F-86C6E5A4CC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD781610-6456-4EC1-B22F-86C6E5A4CC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD781610-6456-4EC1-B22F-86C6E5A4CC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD781610-6456-4EC1-B22F-86C6E5A4CC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335FAEE1-EBCD-4453-AE08-3A55C462D33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335FAEE1-EBCD-4453-AE08-3A55C462D33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335FAEE1-EBCD-4453-AE08-3A55C462D33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335FAEE1-EBCD-4453-AE08-3A55C462D33B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5079FA67-EA05-4795-B8AA-ADD25FB16883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5079FA67-EA05-4795-B8AA-ADD25FB16883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5079FA67-EA05-4795-B8AA-ADD25FB16883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5079FA67-EA05-4795-B8AA-ADD25FB16883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

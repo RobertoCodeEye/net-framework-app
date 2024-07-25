@@ -1,0 +1,21 @@
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.DataAccess.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.DataAccess.pdb
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.Entities.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.Entities.pdb
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.dll
+c:\users\lc\documents\visual studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.DataAccess.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.DataAccess.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.Entities.dll
+C:\Users\Usuario1\Documents\Visual Studio 2015\Projects\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.Entities.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.DataAccess.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.DataAccess.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.Entities.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\bin\Debug\NORTHWND.Entities.pdb
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.dll
+C:\Users\JKING\Desktop\NORTHWND\NORTHWND.DataAccess\obj\Debug\NORTHWND.DataAccess.pdb
