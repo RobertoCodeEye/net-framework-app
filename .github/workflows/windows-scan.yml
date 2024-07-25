@@ -33,6 +33,7 @@ jobs:
     - name: Run Scan 
       shell: powershell
       run: |
+        $env:Path += ";C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Current\Bin"
         $commitId = "${{ github.sha }}"
         $shortCommitId = "PR-"+$commitId.Substring(0, 8)
         $currentDirectory = (Get-Location).Path
